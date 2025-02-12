@@ -19,7 +19,7 @@ Data cleaning and preprocessing (pandas, numpy, matplotlib) Jupyter Notebook: Da
 Dashboard Visuals Depth vs. Gamma Ray: Helps identify shale and sand formations. Depth vs. Resistivity: Highlights hydrocarbon-bearing zones based on high resistivity values. Density vs. Porosity: Assists in evaluating formation porosity. 
 ![Drilling analysis](https://github.com/user-attachments/assets/45ce6f92-1a19-4d17-ad79-ee8df3ac67e4)
 
-Project Files Reservoir_Analysis.ipynb: Jupyter Notebook for data cleaning and analysis Reservoir_Dashboard.pbix: Power BI dashboard file README.md: This document Dataset: Sample well log data (if shareable)
+Project Files Reservoir_Analysis.ipynb: Jupyter Notebook for data cleaning and analysis Reservoir_Dashboard.pbix: Power BI dashboard file README.md
 
 ## Insights and Findings 
 Significant reservoir zones were identified at depths between 1500-2000 meters. High resistivity and porosity values suggest potential hydrocarbon-bearing formations. The dashboard makes it easy to filter data and focus on specific depth ranges or reservoir zones.
